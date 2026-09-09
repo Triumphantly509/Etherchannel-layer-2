@@ -15,3 +15,16 @@
 - Observe how Spanning Tree Protocol (STP) treats each EtherChannel as a single logical link.
 - Demonstrate redundancy by verifying connectivity when a member link fails.
 - Validate load balancing across the EtherChannel links using verification commands.
+
+  ## Configure Static EtherChannel
+  - Mode on
+
+  ## Configure dynamic EtherChannel
+
+  - LACP
+  - Active / Active
+  - Active / Passive
+
+  - PAGP
+  - Desirable / Desirable
+  - Desirable / Auto
