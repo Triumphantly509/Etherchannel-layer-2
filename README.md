@@ -112,10 +112,22 @@
   <img width="518" height="262" alt="image" src="https://github.com/user-attachments/assets/de8497c7-5769-451e-b7c6-203a8fb587f3" />
 </div>
 
+## trunk the port-channel 3 on sw 8
+
+<div>
+  <img width="454" height="98" alt="image" src="https://github.com/user-attachments/assets/febc5c45-de21-429d-92b6-430649ce3eb5" />
+</div>
+
 ## Create static EtherChannel group 3 on switch 9
 
 <div>
   <img width="592" height="380" alt="image" src="https://github.com/user-attachments/assets/ee01fb4c-e21a-4698-84b8-2e990fc3e5ef" />
+</div>
+
+## trunk the port-channel 3 on sw 9
+
+<div>
+  <img width="523" height="305" alt="image" src="https://github.com/user-attachments/assets/90c0a2ff-06f1-4bcf-8396-59dcf8cdefd0" />
 </div>
 
 ## Result on Switch 7
