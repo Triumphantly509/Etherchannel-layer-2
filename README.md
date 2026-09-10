@@ -69,8 +69,26 @@
   </div>
 
   - LACP
-  - Active / Active
-  - Active / Passive
+  - Active / Active or   - Active / Passive
+
+    ## Create Ether Channel group 1 on switch 7, we mistakenly add 3 links, then we remove it.
+
+    <div> 
+      <img width="1290" height="839" alt="image" src="https://github.com/user-attachments/assets/f619d8ec-eb63-4959-80cf-fb74bb955b2e" />
+    </div>
+
+    ## Result, we just have 2 links fa0/1, fa0/3 in the etherchannel group 1 on switch 7
+
+    <div>
+      <img width="733" height="267" alt="image" src="https://github.com/user-attachments/assets/3d0e394a-ca43-4a61-8a7c-3866b4ac8332" />
+    </div>
+
+    ## Create Ether Channel group 1 on switch 8
+
+    <div>
+      <img width="879" height="575" alt="image" src="https://github.com/user-attachments/assets/61e73b68-8a7e-422b-a08f-56fc31ac1e07" />
+    </div>
+    
 
   - PAGP
   - Desirable / Desirable
