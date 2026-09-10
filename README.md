@@ -172,3 +172,29 @@
 <div>
   <img width="667" height="276" alt="image" src="https://github.com/user-attachments/assets/72db9e3f-10ef-4ecc-bc9a-d31f9787b29f" />
 </div>
+
+## Demonstrate redundancy on the LINKS.
+
+## Verify EtherChannel Status Before Failure
+
+<div>
+  <img width="439" height="188" alt="image" src="https://github.com/user-attachments/assets/c8b6a9ef-1adb-41eb-b110-e0363d953def" />
+</div>
+
+## Simulate a Link Failure, we shutdown fa0/1 on switch 7
+
+<div>
+  <img width="476" height="128" alt="image" src="https://github.com/user-attachments/assets/8bf034b7-739b-42b0-b676-a053917e16c9" />
+</div>
+
+## Verify EtherChannel Status After Failure
+
+<div>
+  <img width="463" height="181" alt="image" src="https://github.com/user-attachments/assets/ceeb2a65-bf48-467b-bbf3-5fbe4cbc591e" />
+</div>
+
+## Conclusion
+
+- Po1 remains up (SU)
+- The remaining interfaces stay bundled (P)
+- STP does not block the Port-Channel
