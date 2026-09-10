@@ -117,3 +117,44 @@
 <div>
   <img width="592" height="380" alt="image" src="https://github.com/user-attachments/assets/ee01fb4c-e21a-4698-84b8-2e990fc3e5ef" />
 </div>
+
+## Result on Switch 7
+
+## port-channel 1
+
+<div>
+  <img width="590" height="344" alt="image" src="https://github.com/user-attachments/assets/0e217600-2d3e-4f98-8bdc-00b6cf8e3d63" />
+</div>
+
+## port-channel 2
+
+<div>
+  <img width="573" height="269" alt="image" src="https://github.com/user-attachments/assets/c0b0ad18-53ff-4d7a-8e0e-a12ba54aa273" />
+</div>
+
+## Result on Switch 8
+
+## port-channel 1
+<div>
+  <img width="554" height="317" alt="image" src="https://github.com/user-attachments/assets/f572bbdb-a1be-4441-805d-c89f7da4074b" />
+</div>
+
+## port-channel 3
+
+<div>
+  <img width="602" height="272" alt="image" src="https://github.com/user-attachments/assets/8e7ed3fb-5165-45ca-9f09-a73e6b2f416e" />
+</div>
+
+## Result on Switch 9
+
+## port-channel 2
+
+<div>
+  <img width="715" height="304" alt="image" src="https://github.com/user-attachments/assets/075266ab-d620-4ca8-836b-6767a7cbeb0d" />
+</div>
+
+## port-channel 3
+
+<div>
+  <img width="667" height="276" alt="image" src="https://github.com/user-attachments/assets/72db9e3f-10ef-4ecc-bc9a-d31f9787b29f" />
+</div>
