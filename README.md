@@ -93,3 +93,15 @@
   - PAGP
   - Desirable / Desirable
   - Desirable / Auto
+
+## Create Ether Channel group 2 on switch 7
+
+<div>
+  <img width="562" height="224" alt="image" src="https://github.com/user-attachments/assets/cc3407af-328f-4f39-9ea6-408837647898" />
+</div>
+
+## Create Ether Channel group 2 on switch 9
+
+<div>
+  <img width="660" height="334" alt="image" src="https://github.com/user-attachments/assets/4a716b57-8aa3-45da-a38d-a670ed818f36" />
+</div>
