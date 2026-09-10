@@ -73,7 +73,7 @@
   - LACP
   - Active / Active or   - Active / Passive
 
-    ## Create Ether LACP Channel group 1 on switch 7, we mistakenly add 3 links, then we remove it.
+    ## Create LACP EtherChannel group 1 on switch 7, we add 3 links, then we'll remove it fa0/2.
 
     <div> 
       <img width="1290" height="839" alt="image" src="https://github.com/user-attachments/assets/f619d8ec-eb63-4959-80cf-fb74bb955b2e" />
@@ -85,7 +85,7 @@
       <img width="733" height="267" alt="image" src="https://github.com/user-attachments/assets/3d0e394a-ca43-4a61-8a7c-3866b4ac8332" />
     </div>
 
-    ## Create LACP Ether Channel group 1 on switch 8
+    ## Create LACP EtherChannel group 1 on switch 8
 
     <div>
       <img width="879" height="575" alt="image" src="https://github.com/user-attachments/assets/61e73b68-8a7e-422b-a08f-56fc31ac1e07" />
@@ -96,13 +96,13 @@
   - Desirable / Desirable
   - Desirable / Auto
 
-## Create PACP Ether Channel group 2 on switch 7
+## Create PACP EtherChannel group 2 on switch 7
 
 <div>
   <img width="562" height="224" alt="image" src="https://github.com/user-attachments/assets/cc3407af-328f-4f39-9ea6-408837647898" />
 </div>
 
-## Create PACP Ether Channel group 2 on switch 9
+## Create PACP EtherChannel group 2 on switch 9
 
 <div>
   <img width="660" height="334" alt="image" src="https://github.com/user-attachments/assets/4a716b57-8aa3-45da-a38d-a670ed818f36" />
