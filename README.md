@@ -1,16 +1,15 @@
 # Etherchannel-layer-2
 
 ## Objective
-- Configure three Layer 2 EtherChannels between Switch7, Switch8, and Switch9.
-- Create EtherChannels using static mode (ON) and dynamic negotiation protocols (LACP and PAgP).
-- Bundle multiple physical interfaces into logical Port-Channel interfaces.
-- Configure the Port-Channel interfaces as 802.1Q trunk links to transport VLAN traffic.
-- Verify successful EtherChannel establishment using ON, LACP, and PAgP modes.
-- Examine the differences between static EtherChannel, LACP, and PAgP operation.
-- Verify EtherChannel status and member interfaces using Cisco verification commands.
+- Configure Layer 2 EtherChannels between switches using static EtherChannel (ON), LACP, and PAgP.
+- Bundle multiple physical links into logical Port-Channel interfaces to increase bandwidth and provide redundancy.
+- Configure the EtherChannels as 802.1Q trunk links to carry VLAN traffic between switches.
+- Verify successful EtherChannel formation and operation for static and dynamic negotiation modes.
+- Compare the behavior of static EtherChannel, LACP, and PAgP configurations.
+- Verify Port-Channel status and member interfaces using Cisco verification commands.
 - Observe how Spanning Tree Protocol (STP) treats each EtherChannel as a single logical link.
-- Demonstrate EtherChannel redundancy by disconnecting a member link and verifying continued network connectivity.
-- Validate traffic distribution and load balancing across the bundled links.
+- Demonstrate link redundancy by disconnecting a member interface and verifying that network connectivity is maintained.
+- Validate traffic distribution and load balancing across the bundled EtherChannel links.
 
 ## Configure Static EtherChannel
   - Mode on
