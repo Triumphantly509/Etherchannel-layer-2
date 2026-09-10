@@ -20,13 +20,13 @@
     <img width="758" height="308" alt="image" src="https://github.com/user-attachments/assets/44a19e7c-cfc7-4c57-ae63-1e6fa5eb6755" />
   </div>
 
-## Create the Ether Channel group 1 on switch 19
+## Create Ether Channel group 1 on switch 19
 
   <div>
     <img width="742" height="253" alt="image" src="https://github.com/user-attachments/assets/9adc13f2-7684-4d5e-8ed2-76e48c1f9fee" />
   </div>
 
-## Create the EtherChannel group 1 on switch 20
+## Create EtherChannel group 1 on switch 20
 
 <div>
   <img width="773" height="249" alt="image" src="https://github.com/user-attachments/assets/bce872bc-7ee8-4426-a850-0cc2942c1d9d" />
