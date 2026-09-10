@@ -22,7 +22,7 @@
 ## Diagram
 
   <div>
-    <img width="716" height="383" alt="image" src="https://github.com/user-attachments/assets/93f4fc3f-9b62-486e-9a0a-145c68a12cce" />
+    <img width="758" height="308" alt="image" src="https://github.com/user-attachments/assets/44a19e7c-cfc7-4c57-ae63-1e6fa5eb6755" />
   </div>
 
 ## Create the Ether Channel group 1 on switch 19
